@@ -2,7 +2,7 @@
 An AI-powered desktop voice assistant built using Python. Jarvis can recognize your voice and perform tasks like Wikipedia search, opening apps, telling time, playing music, and more.
 # 📌Introduction
 
-<img src="" alt="">
+<img src="https://github.com/Arya-Ranjan/personal-jarvis-assistant/blob/main/cover%20page.png" alt="">
 
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 
