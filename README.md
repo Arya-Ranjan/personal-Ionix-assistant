@@ -1,5 +1,5 @@
 # personal-Ionix-assistant
-An AI-powered desktop voice assistant built using Python. Jarvis can recognize your voice and perform tasks like Wikipedia search, opening apps, telling time, playing music, and more.
+An AI-powered desktop voice assistant built using Python. Ionix can recognize your voice and perform tasks like Wikipedia search, opening apps, telling time, playing music, and more.
 # 📌Introduction
 
 <img src="https://github.com/Arya-Ranjan/personal-Ionix-assistant/blob/main/Cover%20Page.png" alt="">
