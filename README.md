@@ -1,8 +1,8 @@
-# personal-jarvis-assistant
+# personal-Ionix-assistant
 An AI-powered desktop voice assistant built using Python. Jarvis can recognize your voice and perform tasks like Wikipedia search, opening apps, telling time, playing music, and more.
 # 📌Introduction
 
-<img src="https://github.com/Arya-Ranjan/personal-jarvis-assistant/blob/main/cover%20page.png" alt="">
+<img src="https://github.com/Arya-Ranjan/personal-Ionix-assistant/blob/main/Cover%20Page.png" alt="">
 
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 
@@ -86,7 +86,7 @@ An AI-powered desktop voice assistant built using Python. Jarvis can recognize y
 
 - Through this voice assistant, we have automated various services using a single line command. It eases most of the tasks of the user like searching the web, retrieving weather forecast details, vocabulary help and medical related queries. 
 
-- We aim to make this project a complete server assistant and make it smart enough to act as a replacement for a general server administration. The future plans include integrating Jarvis with mobile using React Native to provide a synchronized experience between the two connected devices. 
+- We aim to make this project a complete server assistant and make it smart enough to act as a replacement for a general server administration. The future plans include integrating Ionix with mobile using React Native to provide a synchronized experience between the two connected devices. 
 
-- Further, in the long run, Jarvis is planned to feature auto deployment supporting elastic beanstalk, backup files, and all operations which a general Server Administrator does. The functionality would be seamless enough to replace the Server Administrator with Jarvis. 
+- Further, in the long run, Jarvis is planned to feature auto deployment supporting elastic beanstalk, backup files, and all operations which a general Server Administrator does. The functionality would be seamless enough to replace the Server Administrator with Ionix. 
 
